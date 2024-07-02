@@ -1,0 +1,25 @@
+{
+  "name": "tsai",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx playwright test",
+    "reinstall": "npx playwright install",
+    "install-deps": "npx playwright install-deps"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.44.0",
+    "typescript": "^5.4.5"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/david-ichilov-evinced/tsai.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/david-ichilov-evinced/tsai/issues"
+  },
+  "homepage": "https://github.com/david-ichilov-evinced/tsai#readme"
+}
